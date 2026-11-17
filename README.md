@@ -141,4 +141,4 @@ Regras de validação: nome obrigatório, espécie/fase existentes, `totalKg > 0
 
 ## Licença
 
-Defina a licença do projeto (por exemplo, [MIT](https://choosealicense.com/licenses/mit/)) e adicione o arquivo `LICENSE`.
+Distribuído sob a licença MIT.
